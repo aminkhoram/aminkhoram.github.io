@@ -1,3 +1,5 @@
 # aminkhoram.github.io
 This would be my personal portfolio
 #Hi Everyone, This is my personal portfolio
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/Personal-Portfolio/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/Personal-Portfolio/logo192.png"/><link rel="manifest" href="/Personal-Portfolio/manifest.json"/><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel="stylesheet"/><title>FAIZA SIDDIQUI | Portfolio Website</title><script defer="defer" src="/Personal-Portfolio/static/js/main.d31920e9.js"></script><link href="/Personal-Portfolio/static/css/main.e36e574c.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script></body></html>
