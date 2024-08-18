@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -7,7 +7,7 @@ const Footer = () => {
       <ul className="flex justify-center p-20 border-t-2 ">
         <li className="px-10 py-50 hover:scale-110 duration-200">
           <a
-            href="https://github.com/Nikoo-Nasrpooya"
+            href="https://github.com/aminkhoram"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -16,7 +16,7 @@ const Footer = () => {
         </li>
         <li className="px-10 pb-50 hover:scale-110 duration-200">
           <a
-            href="https://www.linkedin.com/in/nikoo-nasrpooya/"
+            href="https://www.linkedin.com/in/aminkhorram/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -25,11 +25,11 @@ const Footer = () => {
         </li>
         <li className="px-10 pb-50 hover:scale-110 duration-200">
           <a
-            href="https://twitter.com/nikoonasrpooya"
+            href="https://www.youtube.com/@TechGozar"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaTwitter size={30} />
+            <FaYoutube size={30} />
           </a>
         </li>
       </ul>
