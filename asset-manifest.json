@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bb988c0.css",
-    "main.js": "/static/js/main.7f3717b8.js",
-    "static/media/CSSGrid.jpg": "/static/media/CSSGrid.46075e2208bdc8d83245.jpg",
+    "main.css": "/static/css/main.ec436ba8.css",
+    "main.js": "/static/js/main.b5b8b517.js",
+    "static/media/certificate1.png": "/static/media/certificate1.d7733761875bd043c78e.png",
     "static/media/reactWeather.jpg": "/static/media/reactWeather.a1988356c4f5a620716e.jpg",
     "static/media/sql.png": "/static/media/sql.85fb38d6773862e917f4.png",
     "static/media/reactSmooth.jpg": "/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
     "static/media/navbar.jpg": "/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
     "static/media/installNode.jpg": "/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/gpt.jpg": "/static/media/gpt.5ce6f1bbf688e70fe6c7.jpg",
     "static/media/git.png": "/static/media/git.8dd3688bb1415872d423.png",
     "static/media/aws.png": "/static/media/aws.850296a094250f4a242e.png",
     "static/media/toDoList.png": "/static/media/toDoList.e6a1d9cf471d52db8f57.png",
     "static/media/numpy.png": "/static/media/numpy.a8e574488c66a97cb043.png",
     "static/media/python.png": "/static/media/python.3453437968782f6be8b4.png",
     "index.html": "/index.html",
-    "main.1bb988c0.css.map": "/static/css/main.1bb988c0.css.map",
-    "main.7f3717b8.js.map": "/static/js/main.7f3717b8.js.map"
+    "main.ec436ba8.css.map": "/static/css/main.ec436ba8.css.map",
+    "main.b5b8b517.js.map": "/static/js/main.b5b8b517.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb988c0.css",
-    "static/js/main.7f3717b8.js"
+    "static/css/main.ec436ba8.css",
+    "static/js/main.b5b8b517.js"
   ]
 }
