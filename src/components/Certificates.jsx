@@ -16,7 +16,7 @@ const Certificates = () => {
     { id: 4, src: certificate4, title: "Google Data Analytics", link: "https://www.coursera.org/account/accomplishments/verify/8QLK97WM7HV7" },
     { id: 5, src: certificate5, title: "SQL in SAS", link: "https://www.linkedin.com/learning/certificates/3f3c4651959f2cb7f942332d41397f0e80aafea4e60c72129fd36749d3d0a723" },
     { id: 6, src: certificate6, title: "NVIDIA Deep Learning", link: "https://learn.nvidia.com/certificates?id=f7448cd47647456ebb43c031b257e8b3" },
-    { id: 7, src: certificate7, title: "MAchine Learnig with Python", link: "https://drive.google.com/file/d/1ZQcsTGPDuH7wMpnNAeVq1-HjI4EnFus6/view" },
+    { id: 7, src: certificate7, title: "Machine Learnig with Python", link: "https://drive.google.com/file/d/1ZQcsTGPDuH7wMpnNAeVq1-HjI4EnFus6/view" },
     { id: 8, src: certificate8, title: "Advanced Pandas", link: "https://www.linkedin.com/learning/certificates/172c99640803a6b4ed3dd25996a0d251ae78f8e570ab5ef5c41418e9eb8d6a07?trk=share_certificate" },
     // { id: 9, src: certificate9, title: "Certificate 9", link: "https://example.com/certificate9" },
   ];
