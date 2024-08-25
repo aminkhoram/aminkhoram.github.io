@@ -6,7 +6,7 @@ const About = () => {
                 <h1 className="text-4xl font-bold inline border-b-4 border-gray-500">About</h1>
             </div>
             <div>
-                <p className="text-xl mt-20">
+                <p className="text-xl mt-4">
                 Expert in NLP and LLMs with hands-on experience in engineering transformative solutions. Specialized in developing and deploying advanced language models, leveraging data-driven methodologies to solve complex problems and enhance decision-making processes.
 
 

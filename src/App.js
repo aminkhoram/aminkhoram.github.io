@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
-import Portfolio from "./components/Portfolio";
+import Projects from "./components/Projects";
 import Certificates from "./components/Certificates";
 import Skills from "./components/Skills";
 import Contact from "./components/contact";
@@ -14,7 +14,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Portfolio />
+      <Projects />
       <Certificates /> 
       <Skills />
       <Contact />
