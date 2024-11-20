@@ -15,22 +15,22 @@ const Home = () => {
             You can observe my projects and certifications below.
           </p>
           <div>
-            <Link
-              to="portfolio"
-              smooth
-              duration={500}
-              className="group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to to-blue-500 cursor-pointer items-center"
-            >
-              Portfolio
-              <span className="group-hover:rotate-90 duration-300 p">
-                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
-              </span>
-            </Link>
+          <Link
+            to="About" // ID of the target section
+            smooth={true} // Enable smooth scrolling
+            duration={500} // Animation duration in milliseconds
+            className="group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+          >
+            Portfolio
+            <span className="group-hover:rotate-90 duration-300 p">
+              <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+            </span>
+          </Link>
           </div>
         </div>
         <div>
           <img
-            src="https://media.licdn.com/dms/image/D5603AQEH0E_rlzfJ8A/profile-displayphoto-shrink_800_800/0/1718312368196?e=1727308800&v=beta&t=Uf9yt0xsxuOgzr-jWMaXcu8J6sU7No3jJc1UCbcBogE"
+            src="https://media.licdn.com/dms/image/v2/D5603AQEH0E_rlzfJ8A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719028634471?e=1737590400&v=beta&t=syKKMTL1lWmLsK0oPwgjwcGB1GdGkJ1ZvLcgCvLtcqE"
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-2/3"
           />
