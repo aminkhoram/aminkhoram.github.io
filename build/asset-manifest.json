@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68113c36.css",
+    "main.js": "/static/js/main.571e737f.js",
+    "static/media/certificate4.png": "/static/media/certificate4.afbf49ba2204d7605131.png",
+    "static/media/certificate1.png": "/static/media/certificate1.d7733761875bd043c78e.png",
+    "static/media/certificate2.png": "/static/media/certificate2.239a15aea5dec5e74c28.png",
+    "static/media/asld.png": "/static/media/asld.1c0d12178a01497ab13c.png",
+    "static/media/sql.png": "/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/certificate3.png": "/static/media/certificate3.672813f1328e9504b472.png",
+    "static/media/ind.png": "/static/media/ind.e4c9f49c3b442ff1ab46.png",
+    "static/media/certificate7.png": "/static/media/certificate7.d7c5016aaf26a5a6b853.png",
+    "static/media/gpt.jpg": "/static/media/gpt.5ce6f1bbf688e70fe6c7.jpg",
+    "static/media/git.png": "/static/media/git.8dd3688bb1415872d423.png",
+    "static/media/certificate6.png": "/static/media/certificate6.30fcb9a2a5d7029dc430.png",
+    "static/media/certificate5.png": "/static/media/certificate5.ef38f35335df7b945d1f.png",
+    "static/media/certificate8.png": "/static/media/certificate8.8e8c5d3bae6aae03689d.png",
+    "static/media/aws.png": "/static/media/aws.850296a094250f4a242e.png",
+    "static/media/tsp.jpg": "/static/media/tsp.a5aeffa8ce3454c646ac.jpg",
+    "static/media/prosthetic.jpg": "/static/media/prosthetic.114a7cb7795262a53e6f.jpg",
+    "static/media/tweeter.png": "/static/media/tweeter.0fb08ecd149a82f77c63.png",
+    "static/media/numpy.png": "/static/media/numpy.a8e574488c66a97cb043.png",
+    "static/media/sum.jpg": "/static/media/sum.4df194959e13856bdb6f.jpg",
+    "static/media/python.png": "/static/media/python.3453437968782f6be8b4.png",
+    "index.html": "/index.html",
+    "main.68113c36.css.map": "/static/css/main.68113c36.css.map",
+    "main.571e737f.js.map": "/static/js/main.571e737f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68113c36.css",
+    "static/js/main.571e737f.js"
+  ]
+}
