@@ -1,5 +1,7 @@
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
+import amn from "../assets/projects/amn4.jpeg";
+
 
 const Home = () => {
   return (
@@ -16,7 +18,7 @@ const Home = () => {
           </p>
           <div>
             <Link
-                to="About" // Matches the target section name
+                to="about" // Matches the target section name
                 smooth={true} // Enables smooth scrolling
                 duration={500} // Duration of the animation
                 className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
@@ -30,7 +32,7 @@ const Home = () => {
         </div>
         <div>
           <img
-            src="https://media.licdn.com/dms/image/v2/D5603AQGiq6ZLWwHCyA/profile-displayphoto-shrink_400_400/B56ZTJDnFfHsAk-/0/1738539955019?e=1744848000&v=beta&t=yqT47Ufi8BkYurQNyKkk1ujj9qv96koYq6CGsUpZCHA"
+            src= {amn}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-2/3"
           />
