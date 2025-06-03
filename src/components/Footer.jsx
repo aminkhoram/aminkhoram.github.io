@@ -34,7 +34,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="text-sm flex justify-center mb-3">
-        Copyright &#169; 2022 Nikoo Nasrpooya. All Rights Reserved.
+        Copyright &#169; 2025 Amin Khorram. All Rights Reserved.
       </p>
     </footer>
   );
